@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "load-script": "*",
-    "pubsub": "git://github.com/Jam3/pubsub.git#25193c8193e0a222b5ff1b3a2a125929d5af65e5"
+    "pubsub": "github:Jam3/pubsub.git#25193c8193e0a222b5ff1b3a2a125929d5af65e5"
   },
   "devDependencies": {
     "fox": "*"
